@@ -1,5 +1,5 @@
 {
-  "name": "patoorlando2/codeigniter-schemaBuilder",
+  "name": "patoorlando2/codeigniter-schema-builder",
   "description": "Librería para CodeIgniter 4 que facilita la creación de tablas en migraciones mediante una sintaxis simple y fluida similar a Laravel.",
   "type": "library",
   "license": "MIT",

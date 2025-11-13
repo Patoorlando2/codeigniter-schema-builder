@@ -9,6 +9,8 @@
       "email": "patoorlando2@gmail.com"
     }
   ],
+  "keywords": ["codeigniter", "schema", "builder", "migrations", "database"],
+  "homepage": "https://github.com/Patoorlando2/codeigniter-schemaBuilder",
   "require": {
     "php": ">=7.4",
     "codeigniter4/framework": ">=4.0"
